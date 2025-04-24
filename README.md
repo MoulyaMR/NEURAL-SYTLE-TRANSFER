@@ -42,3 +42,6 @@
 #Apply the stylization model to the content and style images
 #Convert the images to TensorFlow constants and get the stylized output
 #Convert the stylized tensor to a PIL Image for visualization
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/60d65ee2-5ed5-4bf1-9020-e91085ebe45c)
